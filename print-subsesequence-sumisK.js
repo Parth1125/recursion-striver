@@ -32,6 +32,7 @@ function subsequence1(i,ds,s,arr,sum,n){
     if(subsequence1(i+1,ds,s,arr,sum,n)==true)return true//not take
     return false
 }
+console.log('hello world')
 
 // count subsequence whose sum is k
 function subsequence2(i,s,arr,sum,n){
