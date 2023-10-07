@@ -1,0 +1,19 @@
+{
+  "name": "recursion-striver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "printing all subseqeuence.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parth1125/recursion-striver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parth1125/recursion-striver/issues"
+  },
+  "homepage": "https://github.com/Parth1125/recursion-striver#readme"
+}
