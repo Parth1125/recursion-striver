@@ -23,4 +23,3 @@ var combinationSum2 = function(candidates, target) {
     findcombination(ind,arr,target,ds,ans)
     return ans
 };
-console.log('hello world')
