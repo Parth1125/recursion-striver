@@ -24,4 +24,3 @@ var partition = function(s) {
     mainfunc(0,s,path,res)
     return res
 };
-console.log('hello')
